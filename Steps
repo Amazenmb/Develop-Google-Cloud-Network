@@ -1,5 +1,5 @@
-export ZONE=
-curl -LO raw.githubusercontent.com/QUICK-GCP-LAB/2-Minutes-Labs-Solutions/main/Develop%20your%20Google%20Cloud%20Network%20Challenge%20Lab/gsp321.sh
+export ZONE=us-east1-c
+curl -LO https://raw.githubusercontent.com/Amazenmb/Develop-Google-Cloud-Network/refs/heads/main/gsp321.sh
 
 sudo chmod +x gsp321.sh
 
